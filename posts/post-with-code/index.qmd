@@ -1,0 +1,44 @@
+---
+title: "Quarto does code, Latex and Mermaid!"
+date: "2024-08-02"
+categories: [news, code, analysis]
+image: "image.jpg"
+highlight-style: ayu-light
+---
+
+This is a post with executable code.
+
+```{mermaid}
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Decision}
+  C --> D[Result one]
+  C --> E[Result two]
+```
+
+::: {.column-margin}
+We know from *the first fundamental theorem of calculus* that for $x$ in $[a, b]$:
+
+$$\frac{d}{dx}\left( \int_{a}^{x} f(u)\,du\right)=f(x).$$
+:::
+
+
+```{mermaid}
+sequenceDiagram
+  participant Alice
+  participant Bob
+  Alice->>John: Hello John, how are you?
+  loop Healthcheck
+    John->>John: Fight against hypochondria
+  end
+  Note right of John: Rational thoughts <br/>prevail!
+  John-->>Alice: Great!
+  John->>Bob: How about you?
+  Bob-->>John: Jolly good!
+```
+
+```{.python filename="matplotlib.py"}
+import matplotlib.pyplot as plt
+plt.plot([1,23,2,4])
+plt.show()
+```

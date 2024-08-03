@@ -1,0 +1,8 @@
+---
+title: "Lorem Ipsum"
+date: "2024-08-02"
+categories: [news]
+---
+
+
+Lorem Ipsum blah blah

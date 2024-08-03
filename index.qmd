@@ -1,0 +1,15 @@
+---
+#title: "Abhinav Singh"
+about:
+  template: solana
+  image: profile.jpg
+#  links:
+#    - icon: twitter
+#      text: twitter
+#      href: https://twitter.com
+#      text: Github
+#    - icon: github
+#      href: https://github.com
+---
+
+Interested in decision making, machine learning, and history of technology. Work on AI products at [Peak](https://www.peak.ai). Mucked around with complex systems like neural circuits, agent based modeling, and predator-prey systems in previous lives. You can reach me [here](mailto:curious.abhinav@gmail.com).

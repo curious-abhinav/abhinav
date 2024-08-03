@@ -1,0 +1,58 @@
+/*-- scss:defaults --*/
+
+// Colors
+$dark-green: #858e79;
+$light-green: #d1d9ce;
+$cream: #fdfbf7;
+$offwhite: #fefdfbff;
+$gray: #64605f;
+$purple: #9158a2;
+$orange: #ad7237;
+$maroon: #ba3925;
+
+// Base document colors
+$body-bg: $offwhite;
+$navbar-bg: $offwhite;
+$sidebar-bg: $offwhite;
+
+// The left hand sidebar
+$grid-sidebar-width: 300px !default;
+
+// The main body
+$grid-body-width: 900px !default;
+
+// The right hand margin bar
+$grid-margin-width: 300px !default;
+
+// The gutter that appears between the above columns
+$grid-column-gutter-width: 1.5rem !default;
+
+// Fonts
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=IBM+Plex+Sans:wght@200;300&family=Open+Sans:wght@300&family=Source+Code+Pro&display=swap");
+
+/*-- scss:rules --*/
+
+.quarto-title .quarto-categories .quarto-category {
+  padding: 0em 0.75em;
+  font-size: 20px;
+  text-transform: lowercase;
+  border: none;
+  opacity: 0.6;
+}
+
+.quarto-title-banner {
+  color: $maroon;
+}
+
+.quarto-listing-table {
+  border: none;
+}
+
+p {
+  font: 20px EB Garamond;
+}
+
+a {
+  text-decoration: none;
+  color: $maroon;
+}

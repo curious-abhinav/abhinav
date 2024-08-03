@@ -1,0 +1,9 @@
+---
+title: "Posts"
+listing: 
+  contents: posts
+  type: table
+  fields: [ date, title, reading-time]
+format: html
+---
+

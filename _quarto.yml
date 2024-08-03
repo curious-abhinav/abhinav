@@ -1,0 +1,44 @@
+project:
+  type: website
+
+website:
+  title: "Abhinav Singh"
+  page-footer: "Copyright 2024-, Abhinav Singh"
+  reader-mode: true
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: "Home"
+      #      - text: "About"
+      #        file: about.qmd
+      - text: "Notes"
+        file: notes.qmd
+      - text: "Posts"
+        file: posts.qmd
+      #- text: "Projects"
+      #  file: "projects.qmd"
+
+  # sidebar:
+  #   - title: "Reading"
+  #     background: light
+  #     style: "floating"
+  #     contents:
+  #       - notes.qmd
+  #       - reading-1.qmd
+
+  # - title: "Projects"
+  #   background: light
+  #   style: "floating"
+  #   contents:
+  #     - projects.qmd
+
+format:
+  html:
+    theme:
+      - styles.scss
+    mainfont: IBM Plex Sans
+    monofont: Source Code Pro
+    linkcolor: $maroon
+    linestretch: 1.3
+    toc: true
