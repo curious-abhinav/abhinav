@@ -37,5 +37,11 @@
   },
   "notes.qmd": {
     "notes.html": "010798ed"
+  },
+  "posts/ai-at-work/index.qmd": {
+    "index.html": "9e27a8bb"
+  },
+  "disclaimer/index.qmd": {
+    "index.html": "355f0f44"
   }
 }

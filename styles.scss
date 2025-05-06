@@ -27,7 +27,9 @@ $grid-margin-width: 300px !default;
 // The gutter that appears between the above columns
 $grid-column-gutter-width: 1.5rem !default;
 
-// Fonts
+$toc-color: $maroon; // Fonts
+$navbar-hl: $maroon;
+
 @import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=IBM+Plex+Sans:wght@200;300&family=Open+Sans:wght@300&family=Source+Code+Pro&display=swap");
 
 /*-- scss:rules --*/
@@ -46,6 +48,30 @@ $grid-column-gutter-width: 1.5rem !default;
 
 .quarto-listing-table {
   border: none;
+}
+
+/* In your custom.scss file */
+/*-- scss:rules --*/
+
+// Add space between title and description
+.quarto-title-block {
+  .title {
+    margin-bottom: 2em; // Adds space below the title
+  }
+
+  .description,
+  .lead,
+  .subtitle {
+    margin-top: 20em; // Adds space above the description
+    font-size: 20px;
+    color: $maroon;
+  }
+}
+
+.quarto-title-block .subtitle {
+  font-size: 20px;
+  font-family: "EB Garamond", serif;
+  color: $maroon;
 }
 
 p {

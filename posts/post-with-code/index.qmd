@@ -1,9 +1,11 @@
 ---
-title: "Quarto does code, Latex and Mermaid!"
+title: "Quarto does code, Latex and Mermaid! and more"
+description: "Code ftw"
 date: "2024-08-02"
 categories: [news, code, analysis]
 image: "image.jpg"
 highlight-style: ayu-light
+draft: true
 ---
 
 This is a post with executable code.

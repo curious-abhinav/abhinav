@@ -3,7 +3,7 @@ title: "Posts"
 listing: 
   contents: posts
   type: table
-  fields: [ date, title, reading-time]
+  fields: [ date, title, description, categories]
 format: html
 ---
 
