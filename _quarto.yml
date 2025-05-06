@@ -44,4 +44,5 @@ format:
     linkcolor: $maroon
     linestretch: 1.3
     toc: true
-    toc_depth: 3
+    toc-depth: 4
+    toc-expand: true

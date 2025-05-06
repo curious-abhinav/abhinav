@@ -2,7 +2,9 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/ai-at-work/index.html"
+      "/posts/ai-at-work/index.html",
+      "/posts/welcome/index.html",
+      "/posts/post-with-code/index.html"
     ]
   }
 ]
