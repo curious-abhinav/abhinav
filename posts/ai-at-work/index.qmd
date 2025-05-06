@@ -2,7 +2,7 @@
 title: "AI’s three stage revolution: Insights from the electrical revolution in manufacturing"
 description: "Delegating tasks to agents is a transitional state, we will redesign decision networks around the capabilities of humans and AI"
 date: "2025-05-06"
-categories: [AI, work, history, networks]
+categories: [AI, work, electricity, networks]
 image: "image.jpg"
 highlight-style: ayu-light
 ---
