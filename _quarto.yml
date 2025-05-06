@@ -5,7 +5,7 @@ project:
 website:
   title: "Abhinav Singh"
   page-footer:
-    left: "(c) Abhinav Singh, 2025–. [Disclaimer](disclaimer)"
+    left: "&copy; Abhinav Singh, 2025–. [Disclaimer](disclaimer)"
   reader-mode: true
   navbar:
     background: light
