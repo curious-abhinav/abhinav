@@ -16,7 +16,7 @@ Faraday invented the dynamo in 1831. Electric power stations became commercially
 
 We'll first develop a three stage model of technological revolutions by examining the history of the second industrial revolution, specifically the transformation of factories by electricity, using a systems thinking approach. Next, I'll use this model to argue that AI is currently at a similar stage to where electricity was when factories had just installed electric motors - we have achieved increased efficiency, but the real breakthroughs will come when we redesign the decision networks that drive our organisations. Finally, I'll share my thoughts on what an AI native organisation might look like.
 
-### Part 1: The three stages of technological revolutions
+### Part 1: Patterns of technological revolutions
 #### How electricity transformed factories
 
 Understanding how factories worked before electricity will help us fully appreciate how [electricity transformed factories](https://www.osti.gov/servlets/purl/6774921) and why transformation is challenging despite the obvious advantages of new technology. The pre-electricity factory had many drawbacks that limited its productivity. The factory had three main parts:
@@ -90,7 +90,7 @@ The question will change from how to spend your advertising or promotions budget
 
 The stage three future of AI-native organisations won't arrive right away. [We're not there yet](https://arxiv.org/abs/2503.13657), we need more inventions. However, waiting isn't a good choice for any organisation in a competitive market. History shows that, like electricity, lasting competitive advantage will go to those who go beyond the first stage. They will reimagine their organisations around AI's unique strengths.
 
-Start by identifying repetitive, low-judgement tasks and delegating them to AI agents under human supervision. Prepare for stage 3 by mapping out cross-department decisions, uncovering the rate-limiting steps, and asking what you would do differently if collaboration required just one-tenth of the current effort and time. Begin cross-departmental pilot projects that test AI-driven decision making in a controlled way to learn what new structures might be required. The precise shape of AI-native organisations can only be iteratively discovered, but we can be sure that when available net agency grows dramatically and cost-effective intelligence supported by all relevant data can be brought to bear upon any information task, no matter how trivial or vital, we will work differently and do different work.
+Start by identifying repetitive, low judgement tasks and delegating them to AI agents under human supervision. Prepare for stage 3 by mapping out cross department decisions, uncovering the rate limiting steps, and asking what you would do differently if collaboration required just one tenth of the current effort and time. Begin cross departmental pilot projects that test AI driven decision making in a controlled way to learn what new structures might be required. The precise shape of AI native organisations can only be iteratively discovered, but we can be sure that when available net agency grows dramatically and cost effective intelligence supported by all relevant data can be brought to bear upon any information task, no matter how trivial or vital, we will work differently and do different work.
 
 <span style="color:grey;"> Thanks to Malavika and Simon for discussing early versions of this post. </span>
 
